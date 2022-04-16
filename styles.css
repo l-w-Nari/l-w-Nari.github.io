@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: #000000FF;
+}
+#alias {
+  font-family: monospace;
+  text-align: center;
+  color: green;
+}
+.mainHead {
+  color: #FFFFFFFF;
+  font-family: monospace;
+  font-size: 50px;
+}
+.lilith{
+  height: 250px;
+  width: 250px;
+}
+.center{
+  text-align: center;
+}
+.info{
+  color: green;
+  display: inline-block;
+  border-width: medium;
+  border-style: solid;
+  border-color: white;
+  text-align: left;
+  color: red;
+
+}
+.container{
+  display: block;
+}
